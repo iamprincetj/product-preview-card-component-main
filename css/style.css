@@ -118,7 +118,7 @@ h2 {
     .container {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 10rem auto;
+        margin: 8rem auto;
     }
 
     .container .img-container {
