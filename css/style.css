@@ -37,6 +37,7 @@ h2 {
   margin: 7rem auto;
   background-color: var(--White);
   border-radius: 0.7em;
+  overflow: hidden;
 }
 
 .container .img-container {
@@ -46,8 +47,6 @@ h2 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  border-top-left-radius: 0.7em;
-  border-top-right-radius: 0.7em;
   margin-bottom: 0.5em;
 }
 
@@ -123,8 +122,6 @@ h2 {
 
     .container .img-container {
         border-radius: 0;
-        border-top-left-radius: 0.7em;
-        border-bottom-left-radius: 0.7em;
         background-image: url('../images/image-product-desktop.jpg');
         height: 100%;
     }
